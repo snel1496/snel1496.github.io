@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: Snel's Homepage
 description: Home of thoughts and more. 
+markdown: kramdown
