@@ -1,4 +1,6 @@
 
+* TOC
+{:toc}
 ## Header 1
 
 ### Sub Header 1
