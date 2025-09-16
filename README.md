@@ -1,8 +1,8 @@
+---
 layout: page
 title: "Home"
 permalink: /
-
 ---
 
 
-[[_TOC]]
+[[_TOC_]]
