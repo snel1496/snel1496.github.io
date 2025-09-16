@@ -2,3 +2,10 @@ theme: jekyll-theme-hacker
 title: Snel's Homepage
 description: Home of thoughts and more. 
 markdown: kramdown
+navbar_links:
+  - title: Home
+    url: /
+  - title: Games
+    url: /Games/
+  - title: Resume
+    url: /Resume/
