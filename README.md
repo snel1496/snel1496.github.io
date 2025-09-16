@@ -1,8 +1,1 @@
----
-layout: page
-title: "Home"
-permalink: /
----
-
-
-[[_TOC_]]
+Home page

@@ -1,8 +1,3 @@
----
-layout: page
-title: "Resume"
-permalink: /resume
----
 
 # Sam Nelson
 
