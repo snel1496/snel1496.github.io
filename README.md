@@ -1,3 +1,0 @@
-
-# Explore
-- [Resume](resume.md)
