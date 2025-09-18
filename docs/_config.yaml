@@ -2,9 +2,3 @@ theme: jekyll-theme-hacker
 title: Snel's Homepage
 description: Home of thoughts and more. 
 markdown: kramdown
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
