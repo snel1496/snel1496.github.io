@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [Home](index.md) 
 
 # Sam Nelson
