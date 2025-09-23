@@ -1,4 +1,5 @@
 ---
+title: Resume
 layout: default
 ---
 
@@ -7,7 +8,6 @@ layout: default
 **Email:** stsam63@gmail.com  
 **Location:** Minnesota, USA
 
-*TOC* {:toc}
 ---
 ## Skills
 - Programming Languages: C#, Java, JavaScript, SQL, Bash, PowerShell
