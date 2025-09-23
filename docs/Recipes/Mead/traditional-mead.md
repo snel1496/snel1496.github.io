@@ -1,7 +1,7 @@
 ---
 title: Traditional Mead
 layout: mead
-ingrediants:
+ingredients:
     - 3-4 lbs honey
     - 1 gallon water
     - 1 packet wine yeast (Lalvin D47 or EC-1118 recommended)
