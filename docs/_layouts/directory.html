@@ -2,14 +2,15 @@
 layout: default
 ---
 
-| Sibling Pages | Sub Pages |
-|--------------------------------------|----------------------------------|
-| | |
-
-## Sibling Pages
-{% include list-siblingpages.html %}
-
-## Sub Pages
-{% include list-subpages.html %}
+<table>
+    <thead>
+        <th>Sibling Pages</th>
+        <th>Sub Pages</th>
+    </thead>
+    <tbody>
+        <td>{% include list-siblingpages.html %}</td>
+        <td>{% include list-subpages.html %}</td>
+    </tbody>
+</table>
 
 {{ content }}
