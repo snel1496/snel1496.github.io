@@ -8,5 +8,22 @@
         <a href="{{ '/resume' | relative_url }}" class="btn">Resume</a>
     </section>
 
-    {% breadcrumbs.html %}
+    <div id="breadcrumbs">
+        {% assign crumbs = page.url | remove: '/index.html' | split: '/' %}
+
+        <a href="{{ '/' | relative_url }}">Home</a>
+
+        {% for crumb in crumbs offset: 1 %}
+        /
+        {% if forloop.last %}
+        {{ page.title }}
+        {% else %}
+        {% assign crumb_limit = forloop.index | plus: 1 %}
+        <a href="{{ site.baseurl }}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">
+            {{- crumb | replace: '-', ' ' | remove: '.html' | capitalize -}}
+        </a>
+        {% endif %}
+        {% endfor %}
+
+    </div>
 </div>
