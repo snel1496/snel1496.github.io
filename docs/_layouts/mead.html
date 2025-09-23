@@ -1,0 +1,23 @@
+---
+layout: recipe
+---
+
+{{ content }}
+
+<h2>My Fermentation Log</h2>
+<table>
+    <thead>
+        <th>Date</th>
+        <th>Gravity</th>
+        <th>Current ABV</th>
+    </thead>
+    <tbody>
+        {% for entry in page.fermentation_log %}
+        <tr>
+            <td>{{ entry.date }}</td>
+            <td>{{ entry.gravity }}</td>
+            <td>{{ entry.abv }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
