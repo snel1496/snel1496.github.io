@@ -3,10 +3,10 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
     </a>
 
-    <section id="navigation">
+    <!-- <section id="navigation">
         <a href="{{ '/' | relative_url }}" class="btn">Home</a>
         <a href="{{ '/resume' | relative_url }}" class="btn">Resume</a>
-    </section>
+    </section> -->
 
     <div id="breadcrumbs">
         {% assign crumbs = page.url | remove: '/index.html' | split: '/' %}
