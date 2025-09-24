@@ -28,5 +28,15 @@ Traditional mead is one of the simplest forms of mead to make. It consists of ju
 - Sanitize all equipment that will come into contact with the mead.
 - Add honey and water to sanatized fermenter. Stir well to dissolve honey.
 - Pitch yeast into the must (honey-water mixture).
+  - this can work best doing it in a small amount of water first, then adding it to the must.
+- Seal the fermenter with an airlock and store in a dark, cool place (60-70°F).
+- Allow fermentation to proceed for 4-6 weeks, or until fermentation activity has ceased 
+  - no bubbles in airlock
+  - possible abv has been reached
+- Once fermentation is complete, rack the mead into a secondary fermenter, leaving sediment behind.
+- Add oak cubes to the secondary fermenter.
+- taste weekly until desired flavor is achieved.
+- Once the mead has reached the desired flavor, bottle it and let it bottle condition for at least 3 months.
+- Enjoy your traditional mead!
 
 
