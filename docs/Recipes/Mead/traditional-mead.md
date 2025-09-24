@@ -39,4 +39,7 @@ Traditional mead is one of the simplest forms of mead to make. It consists of ju
 - Once the mead has reached the desired flavor, bottle it and let it bottle condition for at least 3 months.
 - Enjoy your traditional mead!
 
+## My Experience
+I started this traditional mead on July 24, 2025, with an initial gravity of 1.082. I used about 3 lbs of honey for a 1-gallon batch. It could have reached a final higher ABV if I had used more honey, but this was my first attempt at mead-making, so I wanted to keep it simple.
 
+I aged in oak cubes for 2 weeks then bottled and corked in 750 ml bottles. I am excited to give it a try after a while of bottle conditioning!

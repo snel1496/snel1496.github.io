@@ -2,11 +2,11 @@
 layout: page
 ---
 
+{{ content }}
+
 <div class="ingredients">
     <h2>Ingredients</h2>
     {% for ingredient in page.ingredients %}
     <p>{{ ingredient }}</p>
     {% endfor %}
 </div>
-
-{{ content }}
