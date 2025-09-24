@@ -4,7 +4,7 @@ layout: mead
 ingredients:
     - 3-4 lbs honey
     - 1 gallon water
-    - 1 packet wine yeast (Lalvin D47 or EC-1118 recommended)
+    - 1 packet wine yeast
     - Oak Cubes
 fermentation_log:
     - Date: 7.24.2025
