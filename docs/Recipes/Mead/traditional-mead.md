@@ -10,6 +10,7 @@ fermentation_log:
     - Date: 7.24.2025
       Gravity: 1.082
       ABV: 0%
+      PossibleABV: 10.4%
     - Date: 7.30.2025
       Gravity: 1.071
       ABV: 1%
