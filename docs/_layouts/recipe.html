@@ -4,8 +4,9 @@ layout: page
 
 <div class="ingredients">
     <h2>Ingredients</h2>
+    Name | Amount
     {% for ingredient in page.ingredients %}
-    <p>{{ ingredient }}</p>
+    <p>{{ ingredient.Name }} | {{ ingredient.Amount}}</p>
     {% endfor %}
 </div>
 {{ content }}
