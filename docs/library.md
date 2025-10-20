@@ -3,7 +3,6 @@ title: Personal Library
 layout: page
 ---
 
-# Display Page
 
 Here is a link to the direct page. This is listing of books in my own personal library, to be used as a way to show people what I have.
 
