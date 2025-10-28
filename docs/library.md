@@ -16,10 +16,11 @@ TBA
 ## TODO
 
 Here are some todos for myself on this page eventually
-- [ ] Add Buttons / Drop downs to filter the search results
+- [x] Add Buttons / Drop downs to filter the search results
     - [x] added series dropdown
     - [x] added author dropdown
-- [ ] Add a search button to search for a particular book
+- [x] Add a search button to search for a particular book
+    - this works per title, I want to add better case insensitive, fuzzy, searching later that includes multiple columns, decoupling the data and rendering logic will likely be needed for this
 - [ ] Add sub pages for each book / a view port that can view them
     - ideally in a way that is easy to link
 - [x] back links to this docs page
