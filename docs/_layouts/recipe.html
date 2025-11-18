@@ -5,7 +5,7 @@ layout: page
 <div class="ingredients">
     <ul>
         {% for ingredient in page.ingredients %}
-        <li>{{ ingredient.Name }}</li>
+        <li>{{ ingredient }}</li>
         {{ ingredient.Amount }}
         {% endfor %}
     </ul>
