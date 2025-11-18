@@ -24,17 +24,32 @@ layout: default
 ### Sogeti USA - Minneapolis, MN
 **Role:** Senior Software Engineer
 -- Jan 2025 - Present
+- Serve as a technical lead for my team and a mentor to over ten other technical teams.
+- Develop shared libraries related to Azure Service Bus, company specific authentication, and Azure Kubernetes Service, to accelerate productivity and reduce feature lead time.
+- Support Telemetry systems that reduce issue resolution time by several days.
 
 **Role:** Software Engineer
 -- Jun 2022 - Dec 2024
+- Developed Azure Cloud .Net solutions that are responsible for sending emails to thousands of recipients within a short period of time.
+- Maintained Azure Kubernetes Instances for nearly 100% uptime.
+- Migrated legacy VB.NET and BizTalk platforms to modern, cloud-first .NET Core solutions.
 
 ### MDS Communications - Shoreview, MN
 **Role:** Software Engineer
 -- Dec 2021 - Jun 2022
+- Developed Full stack ASP.NET Core applications
+    - Developed secure API integrations with credit card payment processors.
+    - Created innovative new solutions to meet the needs of our business users.
+- Increased Agile Sprint productivity by 30%
+- Developed and worked with MS SQL databases and procedures.
 
 ### Allete Inc - Duluth, MN
 **Role:** Programmer Analyst
 -- May 2021 - Dec 2021
+- Maintained metering software that is used for the residential customers
+- Used data analysis to locate equipment that was expected to fail or was failing
+- Turned business user expectations into technical requirements.
+- Upgraded or reimplemented legacy systems to eliminate reliance on deprecated technology.
 
 ---
 ## Education
