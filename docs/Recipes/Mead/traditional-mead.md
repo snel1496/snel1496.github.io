@@ -2,14 +2,10 @@
 title: Traditional Mead
 layout: mead
 ingredients:
-    - Name: honey
-      Amount: 3-4 lbs
-    - Name: Water (purified)
-      Amount: 1 gallon
-    - Name: Wine Yeast
-      Amount: 1 Packed
-    - Name: Oak Cubes
-      Amount: 4-5 oz
+    - 3-4 lbs honey
+    - 1 gallon Water (purified)
+    - 1 Pack (3 oz) Wine Yeast
+    - 4-5 oz Oak Cubes
 fermentation_log:
     - Date: 7.24.2025
       Gravity: 1.082

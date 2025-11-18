@@ -2,44 +2,26 @@
 title: Butter Tofu Mac N Cheese
 layout: recipe
 ingredients:
-    - Name: Shredded Tofu
-      Amount: 16 oz
-    - Name: Onion
-      Amount: 2 (sauteed until browned)
-    - Name: Tomatoe Paste
-      Amount: 2 Tbsp (30g)
-    - Name: Garlic Paste
-      Amount: 2 Tbsp (30g)
-    - Name: Ginger Paste
-      Amount: 1 Tbsp (15g)
-    - Name: Butter
-      Amount: 2 Tbsp (30g)
-    - Name: Fire Roasted Tomatoes
-      Amount: 14 oz (400g)
-    - Name: Paprika
-      Amount: 2 Tbsp
-    - Name: Chili Powder
-      Amount: 1 Tbsp
-    - Name: Spicy Curry Powder
-      Amount: 1 Tbsp
-    - Name: Cumin
-      Amount: 2 tsp
-    - Name: Salt
-    - Name: Pepper
-    - Name: Noodles of Choice
-      Amount: 16 oz
-    - Name: Plain Greek Yogurt
-      Amount: 400g
-    - Name: 1/3 fat Cream Cheese
-      Amount: 120 g
-    - Name: Extra Sharp Chedder
-      Amount: 230 g (measure with your heart)
-    - Name: Reduced Fat Mozzerella
-      Amount: 80g
-    - Name: Chopped Cilantro
-      Amount: Optional - to finish
-    - Name: Chopped Green Onions
-      Amount: Optional - to finish
+    - 16 oz Shredded Tofu 
+    - 2 (sauteed until browned) Onion
+    - 2 Tbsp (30g) Tomatoe Paste
+    - 2 Tbsp (30g) Garlic Paste
+    - 1 Tbsp (15g) Ginger Paste
+    - 2 Tbsp (30g) Butter
+    - 14 oz (400g) Fire Roasted Tomatoes
+    - 2 Tbsp Paprika
+    - 1 Tbsp Chili Powder
+    - 1 Tbsp Spicy Curry Powder
+    - 2 tsp Cumin
+    - Salt
+    - Pepper
+    - 16 oz Noodles of Choice
+    - 400g Plain Greek Yogurt
+    - 120 g 1/3 fat Cream Cheese
+    - 230 g (measure with your heart)  Extra Sharp Chedder
+    - 80g Reduced Fat Mozzerella
+    - Chopped Cilantro Optional - to finish
+    - Chopped Green Onions Optional - to finish
 ---
 
 # Description

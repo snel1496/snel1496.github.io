@@ -3,21 +3,11 @@ layout: page
 ---
 
 <div class="ingredients">
-    <table>
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Amount</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for ingredient in page.ingredients %}
-            <tr>
-                <td>{{ ingredient.Name }}</td>
-                <td>{{ ingredient.Amount }}</td>
-            </tr>
-            {% endfor %}
-        </tbody>
-        </table>
+    <ul>
+        {% for ingredient in page.ingredients %}
+        <li>{{ ingredient.Name }}</li>
+        {{ ingredient.Amount }}
+        {% endfor %}
+    </ul>
 </div>
 {{ content }}
