@@ -1,5 +1,5 @@
 ---
-title: Edamame and Shiitake Baked Wontons
+title: Seitan Tofu Deli Meat
 layout: recipe
 ingredients:
 
