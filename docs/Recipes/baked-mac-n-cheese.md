@@ -23,11 +23,11 @@ ingredients:
 
 This is the best baked mac and cheese recipe ever! Its very tasty. I love adding field and forest sausages to just under the final cheese layer before baking to make it a little heartier and add some protein.
 
-[Source: From a Different Write Up](https://imhungryforthat.com/tinis-mac-and-cheese/)
+[Source from a Different Write Up](https://imhungryforthat.com/tinis-mac-and-cheese/)
 
 ## Steps to Create
 
-1.    Cook the Pasta and Prepare the Cheese
+1. Cook the Pasta and Prepare the Cheese
     - Cook the pasta according to package instructions, then drain and set aside. Preheat the oven to 350°F (175°C). Shred all the cheeses and mix them in a bowl, setting aside half for the topping.
 2. Make the Cheese Sauce
     - Melt butter in a large pan over medium heat. Stir in flour and half the seasoning to form a roux. Gradually whisk in the evaporated milk, ensuring no lumps.
