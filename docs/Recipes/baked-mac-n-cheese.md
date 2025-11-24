@@ -23,7 +23,7 @@ ingredients:
 
 This is the best baked mac and cheese recipe ever! Its very tasty. I love adding field and forest sausages to just under the final cheese layer before baking to make it a little heartier and add some protein.
 
-[Source from a Different Write Up](https://imhungryforthat.com/tinis-mac-and-cheese/)
+[Source from a different write up](https://imhungryforthat.com/tinis-mac-and-cheese/)
 
 ## Steps to Create
 
