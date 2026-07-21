@@ -32,15 +32,18 @@ Attributes start at 0 and max out at 5^, but when making a character you can onl
 Character Statistics are discussed further in (c3 pg. 47) and Skills are next!
 
 ^5 is is the max, but certain abilities, notably singer forms, can push this higher.
-$$  
+$$
 Physical\ Defense = Strength + Speed  
 $$
-$$  
+
+$$
 Cognitive\ Defense = Intellect + Willpower  
 $$
-$$  
+
+$$
 Spiritual\ Defense = Awareness + Presence
 $$
+
 ### 3.1. Carry Weight, Health, et. al
 We can now calculate some values associated with our attributes. This also gives some semblance as to what each attribute is used for.
 
@@ -99,13 +102,17 @@ What are Skill Ranks? These are the bubbles next to each skill on your character
 You get 1 free skill rank tied to your [[Cosmere Character Creator#2. Choose Starting Heroic Path (pg. 69)|Heroic Path]] which you can add first. Then add 4 more ranks wherever seems the most appropriate, but with the restriction that you may not add more than 2 to any skill within character creation. 
 
 You may now notate your skill modifiers on your character sheet.
+
 $$
 Skill\ Modifier = Attribute\ Value + Number\ of\ Skill\ Rank + Any\ Other\ Modifiers
 $$
+
 When rolling for a particular skill, described as a D20 Test, you add this modifier
+
 $$
 D20\ Test\ Result = Skill\ Modifier + D20
 $$
+
 ### 4.2 Expertises pg.52
 Expertises are vague on purpose, these are meant to leave room for your character to be who they are. Having Expertises in a particular thing means that you will likely not have to role in some circumstances to use said thing or complete an objective. You are an Expert, you just do the thing. 
 
@@ -168,20 +175,25 @@ you don't need these to be locked down eventually and can let them evolve over t
 ## 8. Final Calculations
 
 There is some final cleanup if you haven't yet
+
 $$
 Health = 10 + Strength + other\ bonuses
 $$
+
 $$
 Focus = 2 + Willpower + other\ bonuses
 $$
+
 Investiture will be 0 for now, until, and if, you join a Radiant Path, after doing so you will gain a max amount of investiture (pg.54) that mechanically works similar to focus.
 
 $$
 Physical\ Defense = 10 + Strength + Speed + other\ bonuses
 $$
+
 $$
 Cognitive\ Defense = 10 + Intellect + Willpower + other\ bonuses
 $$
+
 $$
 Spiritual\ Defense = 10 + Awareness + Presence + other\ bonuses
 $$

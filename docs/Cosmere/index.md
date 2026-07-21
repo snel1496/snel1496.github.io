@@ -2,4 +2,4 @@
 title: Cosmere RPG Docs
 ---
 
-This is a collection of usefull pages for use within Cosmere RPG
+This is a collection of useful pages for use within Cosmere RPG
