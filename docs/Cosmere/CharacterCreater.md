@@ -103,15 +103,11 @@ You get 1 free skill rank tied to your [[Cosmere Character Creator#2. Choose Sta
 
 You may now notate your skill modifiers on your character sheet.
 
-$$
-Skill\ Modifier = Attribute\ Value + Number\ of\ Skill\ Rank + Any\ Other\ Modifiers
-$$
+$$Skill Modifier = Attribute Value + Number of Skill Rank + Any Other Modifiers$$
 
 When rolling for a particular skill, described as a D20 Test, you add this modifier
 
-$$
-D20\ Test\ Result = Skill\ Modifier + D20
-$$
+$$D20 Test Result = Skill Modifier + D20$$
 
 ### 4.2 Expertises pg.52
 Expertises are vague on purpose, these are meant to leave room for your character to be who they are. Having Expertises in a particular thing means that you will likely not have to role in some circumstances to use said thing or complete an objective. You are an Expert, you just do the thing. 
