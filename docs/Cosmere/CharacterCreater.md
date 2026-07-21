@@ -106,8 +106,9 @@ You may now notate your skill modifiers on your character sheet.
 $$Skill Modifier = Attribute Value + Number of Skill Rank + Any Other Modifiers$$
 {% endraw %}
 When rolling for a particular skill, described as a D20 Test, you add this modifier
-
+{% raw %}
 $$D20 Test Result = Skill Modifier + D20$$
+{% endraw %}
 
 ### 4.2 Expertises pg.52
 Expertises are vague on purpose, these are meant to leave room for your character to be who they are. Having Expertises in a particular thing means that you will likely not have to role in some circumstances to use said thing or complete an objective. You are an Expert, you just do the thing. 
