@@ -102,9 +102,9 @@ What are Skill Ranks? These are the bubbles next to each skill on your character
 You get 1 free skill rank tied to your [[Cosmere Character Creator#2. Choose Starting Heroic Path (pg. 69)|Heroic Path]] which you can add first. Then add 4 more ranks wherever seems the most appropriate, but with the restriction that you may not add more than 2 to any skill within character creation. 
 
 You may now notate your skill modifiers on your character sheet.
-
+{% raw %}
 $$Skill Modifier = Attribute Value + Number of Skill Rank + Any Other Modifiers$$
-
+{% endraw %}
 When rolling for a particular skill, described as a D20 Test, you add this modifier
 
 $$D20 Test Result = Skill Modifier + D20$$
