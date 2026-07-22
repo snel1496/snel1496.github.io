@@ -119,6 +119,7 @@ In [Step Two](#2-choose-starting-heroic-path-pg69) you selected your Heroic Path
 Next, depending on your [Ancestry](#11-choose-ancestry-pg29), you will gain another Talent
 - Singers gain "Change Forms"
 - Humans gain another talent available to them, this does mean as a human you have start on two Heroic Paths at level 1
+
 ## 6. Equipment
 
 You then pick you starting pack, which can include a wide variety of gear and should align with your characters backstory. In this step you will likely gain a Deflect value from your armor, you should mark this as well, the value of your Deflect stat reduces damage by that amount whenever you are delt damage from any source.
