@@ -7,7 +7,7 @@ layout: page
 
 ## 1. Who are you?
 
-Optional, Do [#7-Story|Step 7] at the same time as this, as thematically it may make sense.
+Optional, Do [Step 7](#7-Story) at the same time as this, as thematically it may make sense.
 ### 1.1. Choose Ancestry (pg.29)
 This is mainly human versus singer. Singers get starting forms that provide different benefits, while Humans gain additional Expertise at different levels.
 ### 1.2. Choose Culture (pg.38)
