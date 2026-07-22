@@ -94,7 +94,7 @@ Intellect is your applied Intelligence or Wit. This does increase the amount sta
 ### 4.1 Skills pg.47
 What are Skill Ranks? These are the bubbles next to each skill on your character sheet. They notate how "good" you are at a particular thing.
 
-You get 1 free skill rank tied to your [Heroic Path](#2-choose-starting-heroic-path-pg-69) which you can add first. Then add 4 more ranks wherever seems the most appropriate, but with the restriction that you may not add more than 2 to any skill within character creation. 
+You get 1 free skill rank tied to your [Heroic Path](#2-choose-starting-heroic-path-pg69) which you can add first. Then add 4 more ranks wherever seems the most appropriate, but with the restriction that you may not add more than 2 to any skill within character creation. 
 
 You may now notate your skill modifiers on your character sheet.
 ```
@@ -114,9 +114,9 @@ Reviewing the book on page 52 is best for this.
 ## 5. Talents
 What are Talents? These are "skills" or "abilities" in the various paths / subpaths that effect what your character can do. They tend to give passive or active bonuses or different ways of accomplishing tasks. When given the ability to select a new Talent, unless otherwise specified, you can select a Talent from any path tree in which you meet the requirements and you own a talent that is connected to it from a line. The only exception to this is the starting Talents to the various Heroic paths.
 
-In [Step Two](#2-choose-starting-heroic-path-pg-69) you selected your Heroic Path, this includes a starting talent that you can document on your character sheet.
+In [Step Two](#2-choose-starting-heroic-path-pg69) you selected your Heroic Path, this includes a starting talent that you can document on your character sheet.
 
-Next, depending on your [Ancestry](#1-1-choose-ancestry-pg-29), you will gain another Talent
+Next, depending on your [Ancestry](#11-choose-ancestry-pg29), you will gain another Talent
 - Singers gain "Change Forms"
 - Humans gain another talent available to them, this does mean as a human you have start on two Heroic Paths at level 1
 ## 6. Equipment
