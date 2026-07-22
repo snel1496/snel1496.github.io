@@ -7,7 +7,7 @@ layout: page
 
 ## 1. Who are you?
 
-Optional, Do [[Cosmere Character Creator#7. Story|Step 7]] at the same time as this, as thematically it may make sense.
+Optional, Do [#7-Story|Step 7] at the same time as this, as thematically it may make sense.
 ### 1.1. Choose Ancestry (pg.29)
 This is mainly human versus singer. Singers get starting forms that provide different benefits, while Humans gain additional Expertise at different levels.
 ### 1.2. Choose Culture (pg.38)
@@ -20,7 +20,7 @@ This is where you are from (Azish / Alethi / Iri / etc) you get two cultural exp
 | ----------------- | ----------------------------------------------------------------------------- | -------------------------------- | -------------- | ---------------------------------------------------------------------------------------------- |
 | Agent (pg. 74)    | A talented Operative who solves problems with a keen mind or a deft hand      | Investigator, Spy, Thief         | Insight        | Opportunist: Reroll the plot die once per round.                                               |
 | Envoy (pg. 82)    | An insightful negotiator who adeptly influences others.                       | Diplomat, Faithful, Mentor       | Discipline     | Rousing Presence: Make an ally Determined.                                                     |
-| Hunter (pg. 90)   | A skilled sharpshooter and outdoorsperrson who seeks and eliminates problems. | Archer, Assassin, Tracker        | Perception     | Seek Quarry: Choose one character to pursue and gain an advantage against.                     |
+| Hunter (pg. 90)   | A skilled sharpshooter and outdoorsy person who seeks and eliminates problems. | Archer, Assassin, Tracker        | Perception     | Seek Quarry: Choose one character to pursue and gain an advantage against.                     |
 | Leader (pg. 98)   | A poised commander who directs and guides others to be their best.            | Chapion, Officer, Politico       | Leadership     | Decisive Command: Add a d4 "command die" to an ally's tests.                                   |
 | Scholar (pg. 106) | An adroit thinker who excels at planning and building.                        | Artifabrian, Strategist, Surgeon | Lore           | Erudition: Gain bonus skill ranks that you can reallocate.                                     |
 | Warrior (pg. 114) | A fighter who relies on their skill, brute strength, or indominable will.     | Duelist, Shardbearer, Soldier    | Athletics      | Vigilant Stance: Gain a fighting stance that makes you more responsive and flexible in combat. |
