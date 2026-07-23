@@ -1,5 +1,5 @@
 ---
-title: Character Creater
+title: Cosmere Character Creater
 layout: page
 ---
 
