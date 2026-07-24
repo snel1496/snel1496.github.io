@@ -17,7 +17,7 @@ There are 10 orders of Radiants, with 9 of them available to play. [Bondsmiths](
 
 | Order                           | Spren            | Surges                            | Philosophy                                  |
 |---------------------------------|------------------|-----------------------------------|---------------------------------------------|
-| [Windrunners](#windrunners)     | Honorspren       | Gravitation and Adhesion          | Protect the Innocent and the defenseless    |
+| [Windrunners](#windrunners)     | Honorspren       | Adhesion and Gravitation          | Protect the Innocent and the defenseless    |
 | [SkyBreakers](#skybreakers)     | Highspren        | Gravitation and Division          | Enforce the law and strive for justice.     |
 | [Dustbringers](#dustbringers)   | Ashspren         | Division and Abrasion             | Great power requires strong disipline       |
 | [Edgedancers](#edgedancers)     | Cultivationspren | Abrasion and Progression          | Remember and serve those who others forget. |
